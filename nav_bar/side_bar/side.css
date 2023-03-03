@@ -1,0 +1,33 @@
+.sidebar{
+    background-color: goldenrod;
+    color: beige;
+    width: 200px;
+    height: 100;
+    position: fixed;
+    top: padding 20px; 
+    top: 0;
+    bottom: 0;
+}
+ul {
+    list-style: none;
+    margin: 20px;
+    padding: 20px;
+}
+li{
+    padding: 15px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: brown;
+}
+.rounded_image{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    overflow-y:none ;
+}
